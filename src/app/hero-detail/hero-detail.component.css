@@ -15,7 +15,8 @@ label {
     font-size: 1rem;
   }
   button:hover {
-    background-color: #cfd8dc;
+    background-color: #e30201;
+    color: white;
   }
   button:disabled {
     background-color: #eee;
