@@ -45,7 +45,7 @@ nav a {
   display: inline-block;
   background-color: #e30201;
   color: #e9e2e2;
-  border-radius: 4px;
+  border-radius: 10px;
 }
 
 nav a:hover {
