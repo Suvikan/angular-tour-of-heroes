@@ -1,24 +1,25 @@
 /* HeroSearch private styles */
 
+
 label {
   display: block;
   font-weight: bold;
-  font-size: 1.2rem;
-  margin-top: 3rem;
-  margin-left: 1rem;
-  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+  margin: 1rem;
 }
 
 input {
   padding: 0.5rem;
   width: 100%;
-  max-width: 700px;
+  max-width: 800px;
+  height: 2rem;
   box-sizing: border-box;
   display: block;
+  margin: 0 1rem;
 }
 
 input:focus {
-  outline: #336699 auto 1px;
+  outline: #e30201 auto 1px;
 }
 
 li {
@@ -35,6 +36,7 @@ li {
   box-sizing: border-box;
   text-decoration: none;
   color: black;
+  margin: auto 1rem;
 }
 
 .search-result li a:hover {

@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = ' Tour of Heroes ';
+  intro = 'This Tour of Heroes tutorial provides an introduction to the fundamentals of Angular';
 }
